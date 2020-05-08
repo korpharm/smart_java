@@ -2,21 +2,21 @@ package com.ict.edu;
 
 public class Ex09 {
 public static void main(String[] args) {
-	// do~while ¹®:while¹®°ú °°Àº ¹İº¹¹®
-   // ÃÊ±â°ª
+	// do~while ë¬¸:whileë¬¸ê³¼ ê°™ì€ ë°˜ë³µë¬¸
+   // ì´ˆê¸°ê°’
     //do
-    //½ÇÇà¹®
-    //Áõ°¨½Ä
-	// }while(Á¶°Ç½Ä)
+    //ì‹¤í–‰ë¬¸
+    //ì¦ê°ì‹
+	// }while(ì¡°ê±´ì‹)
 	
-	// 1~10 Â¦¼ö
+	// 1~10 ì§ìˆ˜
     int i=1;
 	do {
 		if(i%2==0) System.out.println(i);
 		i++;
 	} while (i<11);
 	
-	//1~10 ´©ÀûÇÕ
+	//1~10 ëˆ„ì í•©
 	i=1;
 	int res=0;
 	do {
@@ -25,13 +25,13 @@ public static void main(String[] args) {
 	} while (i<11);
 	System.out.println(res);
 	
-	//±¸±¸´Ü 5´Ü
+	//êµ¬êµ¬ë‹¨ 5ë‹¨
 	
 	i=1;
 	do {
 		System.out.println("5*"+i+"="+5*i);
 		i++;
 	} while (i<10);
-   
+   system.out.println("==========================");
 }
 }
