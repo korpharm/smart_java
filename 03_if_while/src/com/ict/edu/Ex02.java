@@ -2,7 +2,7 @@ package com.ict.edu;
 
 public class Ex02 {
 	public static void main(String[] args) {
-		// if~else~:조건긱이 참일때와 거짓일때 각각 나눠서 처리
+		// if~else~:조건식이 참일때와 거짓일때 각각 나눠서 처리
 		// 형식: if(조건식){
 		// 조건식이 참일때 실행문장
 		// 조건식이 참일때 실행문장

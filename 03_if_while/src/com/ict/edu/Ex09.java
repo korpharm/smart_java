@@ -32,6 +32,6 @@ public static void main(String[] args) {
 		System.out.println("5*"+i+"="+5*i);
 		i++;
 	} while (i<10);
-   system.out.println("==========================");
+   System.out.println("==========================");
 }
 }
