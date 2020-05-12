@@ -2,7 +2,8 @@ package com.ict.edu;
 
 import java.util.Scanner;
 
-public class Ex06 {
+public class Ex61 {
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
@@ -42,9 +43,8 @@ public class Ex06 {
 				if (k == 1)
 					continue esc;
 				else if (k == 2)
-				{System.out.println("수고하셨습니다");
+					{System.out.println("수고하셨습니다");
 				break esc;}
-					
 				else System.out.println("잘못 입력하셨습니다");
 				continue again;
 			}
