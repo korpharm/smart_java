@@ -3,9 +3,16 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="com.ict.edu.Ex71"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="com.ict.edu.Ex05"/>
 <fullyQualifiedTypeName name="com.ict.edu.Ex_11"/>
 <fullyQualifiedTypeName name="com.ict.edu.Ex11"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="com.ict.edu.Ex01_sup"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.ict.edu3.T_sub"/>
+<fullyQualifiedTypeName name="com.ict.edu3.T_sup"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
